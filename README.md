@@ -9,8 +9,6 @@
 <p align="center">
   Trying to build something interesting with 
   <br>
-  <br>
-  <br>
    <strong> Javascript • HTML • CSS • Nodejs • React </strong>
   </p>
 
