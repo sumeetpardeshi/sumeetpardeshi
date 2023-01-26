@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sumeetpardeshi/">
-    <img src="https://media-exp1.licdn.com/dms/image/C5603AQH8--88jzn71w/profile-displayphoto-shrink_100_100/0/1599855519046?e=1649289600&v=beta&t=fd-MrLmPKf8tIOy-E0Zi0iqG4Je3ntJtQ91HaPdGin8" alt="Sumeet">
+    <img src="developer.svg" height="200vh" alt="Sumeet">
   </a>
 </p>
 
