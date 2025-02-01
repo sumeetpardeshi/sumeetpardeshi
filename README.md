@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">Sumeet Pardeshi</h3>
-
+<h5 align="center"><a href="https://sumeetpardeshi.com]" target="_blank">sumeetpardeshi.com</a></h5>
 <p align="center">
   Trying to build something interesting with 
   <br>
