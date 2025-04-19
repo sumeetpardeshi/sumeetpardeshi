@@ -9,7 +9,7 @@
 <p align="center">
   Trying to build something interesting with 
   <br>
-   <strong> Javascript • HTML • CSS • Nodejs • React </strong>
+   <strong> Javascript • HTML • CSS • Nodejs • React • Next.js </strong>
   </p>
 
 
